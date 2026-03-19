@@ -1,0 +1,9 @@
+.git
+.gitignore
+.idea
+*.md
+LICENSE
+target
+.mvn/wrapper/maven-wrapper.jar
+docker-compose.yml
+src/test
